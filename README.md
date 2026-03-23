@@ -29,7 +29,7 @@ O sistema permite realizar as seguintes operações:
  ### ▶️ Como Executar
 
 1. Certifica-te de que tens o Python instalado.
-2. Guarda o código num ficheiro, por exemplo: `gestao_stock.py`
+2. Guarda o código num ficheiro, por exemplo: `1I-PSI-M3-14788-EduardoPereira-EXPA04.py`
 3. Executa o programa no terminal:
 
 
